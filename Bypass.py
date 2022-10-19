@@ -9,9 +9,6 @@ except:
 
         os.system('pip2 install requests')
 
-#####        os.system('xdg-open https://www.facebook.com/FB.KING.MAHIN.NAME.TOH.SONSO')
-
-
 
 import requests
 
